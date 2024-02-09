@@ -31,11 +31,11 @@
 <br>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./xd.png" style="width: 42px;/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./Ai.png" style="width: 42px;/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./xd.png" style="width: 45px;/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./heroku.png"/> </a>
 </p>
 
 
