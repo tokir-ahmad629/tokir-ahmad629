@@ -1,7 +1,7 @@
 [![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://portfolio-two-azure-56.vercel.app/)
 
 <h1 align="start">Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Tokir Ahmad Shakib</h1>
-<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients</p>
+<p>I am a Front-end web developer. Those interested in creating error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I will design your website according to your requirements. Coding is my passion and I always love to code to create interesting websites. Client satisfaction is my priority. I will work with you until your 100% satisfaction. I am strategic and goal-oriented, and I always work with an end goal in mind.</p>
 
 <br>
 
