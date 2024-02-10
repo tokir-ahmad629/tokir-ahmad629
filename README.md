@@ -3,6 +3,8 @@
 <h1 align="start">Hi 👋, I'm Tokir Ahmad Shakib</h1>
 <p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients</p>
 
+<br>
+
 ## 🚀 About Me
 <p>
 👑 I am Web Developer <br> 
@@ -10,6 +12,7 @@
 🎤 Like to share my knowledge <br>
   😄 Pronouns: He, Fat & Happy 😄
 </p>
+
 <br>
 
 ## ⚡ Technologies
@@ -26,9 +29,7 @@
 
 <br>
 
-
 ## 👨‍💻 Tools : 
-<br>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./xd.png" style="width: 42px;/> </a>
@@ -38,7 +39,15 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
 </p>
 
+<br>
 
+## 🔭 Some of my main projects :
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
+
+<br>
 
 ## ☕ Connect with me!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tokir-ahmad629/) 
