@@ -7,10 +7,13 @@
 
 ## 🚀 About Me
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge <br>
-  😄 Pronouns: He, Fat & Happy 😄
+👑 I am Web Developer. <br> 
+🖊️ Love to write code. <br> 
+💬 Ask me about **Frontend Development**. <br> 
+😄 Pronouns: He, Fat & Happy. <br> 
+🌱 I’m currently learning many things,  I  believe that every day is a learning opportunity. <br> 
+🥳 Fun fact: I love to cook, I love to travel. <br> 
+👯 Fun fact I am a very friendly and supportive person. <br> 
 </p>
 
 <br>
@@ -29,7 +32,7 @@
 
 <br>
 
-## 👨‍💻 Tools : 
+## 🔧  Tools : 
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./xd.png" style="width: 42px;/> </a>
